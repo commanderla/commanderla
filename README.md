@@ -1,5 +1,5 @@
 👋 Hi, I’m @commanderla
-👀 I'm a RUST player ; )
+👀 I am going through a coding identity crisis
 📫 Catch my drift discord@arson0000
   
 <!---
